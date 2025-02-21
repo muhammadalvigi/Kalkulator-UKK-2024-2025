@@ -1,12 +1,11 @@
 # Kalkulator-UKK-2024-2025
-UKK 2024/2025
 
 # Kalkulator Sederhana
 Kalkulator berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## 🐱‍👤 Akses Online Secara Online
 Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi alamat:
-[Klik disini](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
+[click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
 
 ## 📸 Foto Atau Hasil Akhir
 ![kalkulator Alvi]![image](https://github.com/user-attachments/assets/4d7a3d19-cd81-488f-9461-433a47fab604)
