@@ -8,7 +8,7 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 [click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
 
 ## 📸 Foto Atau Hasil Akhir
-![kalkulator Alvi]![image](https://github.com/user-attachments/assets/4d7a3d19-cd81-488f-9461-433a47fab604)
+[image](https://github.com/user-attachments/assets/4d7a3d19-cd81-488f-9461-433a47fab604)
 
 
 ## 💯 Fitur
@@ -27,5 +27,5 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 3. Tekan tombol '=' untuk mendapatkan hasil.
 4. Gunakan tombol 'C' atau 'AC' untuk menghapus.
 
-## ✨ Create By
+## 😎 Create By
 **Muhammad Alvigi** untuk UKK 2024/2025.
