@@ -1,6 +1,6 @@
 # Kalkulator-UKK-2024-2025
 
-# Kalkulator Sederhana
+
 Kalkulator berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## 🐱‍👤 Akses Online Secara Online
