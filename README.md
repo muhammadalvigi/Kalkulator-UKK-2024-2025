@@ -8,7 +8,8 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 [click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
 
 ## 📸 Foto Atau Hasil Akhir
-https://github.com/user-attachments/assets/4d7a3d19-cd81-488f-9461-433a47fab604
+![image](https://github.com/user-attachments/assets/2beb3a0d-9e70-493f-8675-c0ce97cd39fa)
+
 
 
 ## 💯 Fitur
