@@ -19,10 +19,10 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 - **JavaScript** : Logika kalkulasi.
 
 ## ✔ Cara Menggunakan
-1. Buka halaman [Akses Kalkulator Secara Online](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/).
+1. Buka halaman [**Akses Kalkulator Secara Online**](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/).
 2. Klik tombol angka dan operator sesuai dengan perhitungan yang Anda inginkan.
 3. Tekan tombol '=' untuk mendapatkan hasil.
 4. Gunakan tombol 'C' atau 'AC' untuk menghapus.
 
 ## 😎 Create By
-[**Muhammad Alvigi**](https://wa.me/085750097330) untuk UKK 2024/2025.
+[*Muhammad Alvigi*](https://wa.me/085750097330) untuk UKK 2024/2025.
