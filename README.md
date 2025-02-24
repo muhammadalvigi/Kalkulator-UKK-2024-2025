@@ -9,7 +9,6 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 
 ## 📸 Foto Atau Hasil Akhir
 (![Screenshot 2025-02-24 104606](https://github.com/user-attachments/assets/755da909-da42-4cb0-bb1f-6be8f741a13a)
-)
 
 ## 💯 Fitur
 - Operasi matematika dasar: penjumlahan, pengurangan, perkalian, dan pembagian.
