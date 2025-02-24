@@ -29,4 +29,4 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 4. Gunakan tombol 'C' atau 'AC' untuk menghapus.
 
 ## 😎 Create By
-**Muhammad Alvigi** untuk UKK 2024/2025.
+[**Muhammad Alvigi**](https://instagram.com/alvi4youu) untuk UKK 2024/2025.
