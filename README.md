@@ -3,7 +3,7 @@
 
 Kalkulator berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
-## 🐱‍👤 Akses Kalkulator Secara Online
+## 😁👍 Akses Kalkulator Secara Online
 Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi alamat:
 [click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/).
 
