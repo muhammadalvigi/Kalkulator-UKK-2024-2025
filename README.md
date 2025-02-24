@@ -23,7 +23,7 @@ Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi 
 - **JavaScript**: Logika kalkulasi.
 
 ## ✔ Cara Menggunakan
-1. Buka halaman [Demo dan Akses Online](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
+1. Buka halaman [Akses Kalkulator Secara Online](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/indexx.html).
 2. Klik tombol angka dan operator sesuai dengan perhitungan yang Anda inginkan.
 3. Tekan tombol '=' untuk mendapatkan hasil.
 4. Gunakan tombol 'C' atau 'AC' untuk menghapus.
