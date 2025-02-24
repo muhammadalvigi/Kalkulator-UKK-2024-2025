@@ -2,8 +2,8 @@
 Kalkulator berbasis web yang dibuat menggunakan HTML, CSS, dan JavaScript.
 
 ## 😁👍 Akses Kalkulator Secara Online
-[click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/).
-Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi alamat :
+Jika Anda ingin menggunakan Kalkulator ini secara online, Anda bisa mengunjungi alamat : [click here](https://muhammadalvigi.github.io/Kalkulator-UKK-2024-2025/).
+
 ## 📸 Foto Atau Hasil Akhir
 ![image](https://github.com/user-attachments/assets/e0bd8182-1365-4e9d-9dd2-6b7f500d59b2)
 
